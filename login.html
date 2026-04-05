@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="login.css">
+   
+</head>
+<body id="body">
+    <div id="cen">
+        <p id="head">Login</p>
+        <input id="em" type="text" autocomplete="off" autofill="off" placeholder="Email"> 
+        <input id="pass" type="password" autocomplete="off" placeholder="Password"><br>
+        <input id="rem" type="checkbox">
+         <p id="reme">Remember me</p>
+         <button id="for">Forget Password?</button>
+         <form onsubmit = "return validatelogin()"></form>
+         <button id="but" type="submit" onclick="validatelogin()" >Login</button>
+         <p id="do">Don't have an account?</p>
+         <button id="reg" onclick="gotoregister()"><b>Register</b></button>
+          <script src="script.js"></script>
+    </div>
+</body>
+</html>

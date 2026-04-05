@@ -1,0 +1,116 @@
+ #cen{
+        width: 30%;
+        height: 450px;
+        background-color: rgba(255, 255, 255, 0.205);
+        margin: 125px auto;
+        margin-top: 100px;
+        margin-left: 545px;
+        border: solid rgba(17, 16, 16, 0.717);
+        border-radius: 50px;
+       
+    }
+   #body{
+   
+    background-image: url("4aaad2be-cae3-42b0-828b-6499ee6bf222.png");
+    background-size: cover;
+    background-position: center;
+    
+   
+
+   }
+    #head{
+        font-size: xx-large;
+        padding-left: 190px;
+        padding-top: 50px;
+
+    }    
+    #email{
+        font-size: large;
+        padding-left: 50px;
+        padding-top: 50px;
+    }  
+    #password{
+        font-size: large;
+        padding-left: 50px;
+        padding-top: 2px;
+    }
+   
+    #em{
+        width: 275px;
+        padding-bottom: 10px;
+        margin-left: 80px;
+        border: none;
+        background: transparent;
+        border-bottom: 2px solid black;
+        padding-top: 30px;
+        outline: none;
+        font-size: large;
+        color: black;
+        
+    }
+
+    
+     input::placeholder{
+        font-size: large;
+        color: rgba(7, 7, 7, 0.849);
+    }
+     #pass{
+        width:275px;
+        outline: none;
+        margin-left: 80px;
+        border: none;
+        background: transparent;
+        border: none;
+        border-bottom: 2px solid black;
+        padding-top: 40px;
+        padding-bottom: 10px;
+        font-size: large;
+    }
+    #rem{
+        margin-left: 80px;
+        margin-top: 20px;
+        accent-color: black
+        ;
+    }
+    #reme{
+        margin-top: -19px;
+        margin-left: 100px;
+       color: black;
+    }
+    #for{
+        position: relative;
+        top: -33px;
+        margin-left: 245px;
+        border: none;
+        background: transparent;
+    }
+    #but{
+        width: 280px;
+        height: 40px;
+        margin-left: 80px;
+        background-color: rgb(0, 0, 0);
+        font-size: 15px;
+        color: aliceblue;
+        border-radius: 10px;
+        border-style: solid;
+        border-color: rgba(0, 0, 0, 0.071);
+    }
+    #do{
+        padding-left: 115px;
+    }
+    #reg{
+        position: relative;
+        top: -36px;
+        margin-left: 265px;
+        border: none;
+        background: transparent;
+        font-family: inherit;
+        font-size: 16px;
+        text-decoration: underline;
+        
+    }
+    input{
+        background: transparent;
+        outline: none;
+        
+    }
