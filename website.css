@@ -471,3 +471,22 @@
             height: 350px;
            
         }
+@media(max-width: 786px){
+    body{
+        padding: 10px;
+    }
+    .container{
+        width: 100%;
+        flex-direction: column;
+    }
+    img{
+        width: 100%;
+        height: auto;
+    }
+    nav{
+        flex-direction: column;
+    }
+    .product{
+        width: 100%;
+    }
+}
