@@ -84,7 +84,7 @@
         #firstpage{
             width: 100%;
             height: 900px;
-            background-image: url("72f3e1b6-e2be-4472-a202-e3917a57d8d7.png");
+            background-image: url("images/72f3e1b6-e2be-4472-a202-e3917a57d8d7.png");
             background-repeat: no-repeat;
             background-size: cover;
             
@@ -139,7 +139,7 @@
             border-radius: 500%;
             margin-left: 30px;
             margin-top: 20px;
-            background-image: url("download\ \(2\).jpg");
+            background-image: url("images/download\ \(2\).jpg");
             background-size: cover;
         }
          #coll2{
@@ -149,7 +149,7 @@
             border-radius: 100%;
             margin-left: 20px;
             margin-top: 20px;
-            background-image: url("best.jpg");
+            background-image: url("images/best.jpg");
             background-size: cover;
             background-repeat: no-repeat;
         }
@@ -160,7 +160,7 @@
             border-radius: 100%;
             margin-left: 20px;
             margin-top: 20px;
-            background-image: url("download\ \(4\).jpg");
+            background-image: url("images/download\ \(4\).jpg");
             background-size: cover;
         }    
          #coll4{
@@ -170,7 +170,7 @@
             border-radius: 100%;
             margin-left: 20px;
             margin-top: 20px;
-            background-image: url("ethnic.jpg");
+            background-image: url("images/ethnic.jpg");
             background-size: cover;
         }
         #coll5{
@@ -180,7 +180,7 @@
             border-radius: 100%;
             margin-left: 20px;
             margin-top: 20px;
-            background-image: url("Depop\ Women\'s\ Footwear.jpg");
+            background-image: url("images/Depop\ Women\'s\ Footwear.jpg");
             background-size: cover;
         }
         #coll6{
@@ -191,7 +191,7 @@
             margin-left: 20px;
             margin-right: 30px;
             margin-top: 20px;
-            background-image: url("Untitled\ design\ \(1\).png");
+            background-image: url("images/Untitled\ design\ \(1\).png");
             background-size: 329px;
             
         }
@@ -366,7 +366,7 @@
             height: 300px;
             background-color: rgba(105, 103, 103, 0.185);
             margin-left: 20px;
-            background-image: url("adcc6467-4f8a-47b1-bee1-5285e3b6cf95.jpg");
+            background-image: url("images/adcc6467-4f8a-47b1-bee1-5285e3b6cf95.jpg");
             background-size: cover;
             
         }
@@ -374,21 +374,21 @@
             width: 15%;
             height: 300px;
             background-color: brown;
-            background-image: url("sjsn.jpg");
+            background-image: url("images/sjsn.jpg");
             background-size: cover;
         }
        #dress3{
             width: 15%;
             height: 300px;
             background-color: brown;
-             background-image: url("fac05c8f-7085-49dd-894f-0f0d1980ccc7.jpg");
+             background-image: url("images/fac05c8f-7085-49dd-894f-0f0d1980ccc7.jpg");
             background-size: cover;
         }
        #dress4{
             width: 15%;
             height: 300px;
             background-color: brown;
-             background-image: url("download\ \(2\)s.jpg");
+             background-image: url("images/download\ \(2\)s.jpg");
             background-size: cover;
         }
         #dress5{
@@ -396,7 +396,7 @@
             height: 300px;
             background-color: brown;
             margin-right: 20px;
-             background-image: url("The\ Power\ of\ Stillness\ _\ AI\ Fashion\ Story.jpg");
+             background-image: url("images/The\ Power\ of\ Stillness\ _\ AI\ Fashion\ Story.jpg");
             background-size: cover;
         }
         #details{
